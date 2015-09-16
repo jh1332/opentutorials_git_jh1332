@@ -14,4 +14,5 @@ push
 push
 push.egoing
 pull.leeche
-conflict.egoing
+conflict.egoing.leeche
+
