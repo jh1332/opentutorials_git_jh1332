@@ -13,3 +13,4 @@ push
 push
 push.egoing
 pull.leeche
+conflict.leeche
